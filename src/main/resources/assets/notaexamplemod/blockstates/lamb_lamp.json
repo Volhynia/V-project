@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "highlander=0": { "model": "notaexamplemod:block/lamb_lamp_0" },
+    "highlander=1": { "model": "notaexamplemod:block/lamb_lamp_1" },
+    "highlander=2": { "model": "notaexamplemod:block/lamb_lamp_2" },
+    "highlander=3": { "model": "notaexamplemod:block/lamb_lamp_3" }
+  }
+}

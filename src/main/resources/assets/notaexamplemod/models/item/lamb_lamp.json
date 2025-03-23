@@ -1,0 +1,6 @@
+{
+  "parent": "notaexamplemod:block/lamb_lamp_0",
+  "textures": {
+    "layer0": "notaexamplemod:blocks/lamb_lamp_0"
+  }
+}
